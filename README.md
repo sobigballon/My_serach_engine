@@ -11,3 +11,5 @@ Maybe the BeautifulSoup and SQlite will work better. So,a new crawler_with_bs4_w
 Beacause of the SQlite,there is a new lookup_wiht_SQlite.
 
 rank the results with the user_click
+
+Try the pagerank!!!
